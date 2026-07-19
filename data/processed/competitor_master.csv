@@ -1,0 +1,11 @@
+Company,Category,Free_Plan,Entry_Paid_Plan,Enterprise,Primary_Use,Website
+ChatGPT,General AI,Yes,Plus,Yes,General AI Assistant,https://openai.com/chatgpt
+Claude,General AI,Yes,Pro,Yes,Writing & Reasoning,https://www.anthropic.com
+Gemini,General AI,Yes,Google AI Pro,Yes,General AI Assistant,https://gemini.google.com
+Cursor,Coding AI,Yes,Pro,Yes,AI Code Editor,https://cursor.com
+Perplexity,Research AI,Yes,Pro,Yes,AI Search,https://www.perplexity.ai
+GitHub Copilot,Coding AI,Limited,Individual,Yes,Code Completion,https://github.com/features/copilot
+Canva AI,Design AI,Yes,Pro,Yes,Graphic Design,https://www.canva.com
+Adobe Firefly,Design AI,Yes,Premium,Yes,Image Generation,https://firefly.adobe.com
+Notion AI,Productivity AI,No,AI Add-on,Yes,Productivity,https://www.notion.so
+Jasper,Marketing AI,No,Creator,Yes,Marketing Content,https://www.jasper.ai
